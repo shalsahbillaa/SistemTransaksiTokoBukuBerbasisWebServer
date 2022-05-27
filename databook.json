@@ -1,0 +1,1796 @@
+{
+    "book": [
+        {
+            "id": "001",
+            "judul": "Aneka Kreasi Unik Dan Cantik Dari Benang Wol",
+            "penulis": "Yani Sahara",
+            "penerbit": "Trans Idea",
+            "tahun": "2019",
+            "harga": "58000"
+        },
+        {
+            "id": "002",
+            "judul": "Pengantar Lengkap Teknik Dasar Kelistrikan",
+            "penulis": "Yogi Dasatrio",
+            "penerbit": "Zahara",
+            "tahun": "2019",
+            "harga": "50000"
+        },
+        {
+            "id": "003",
+            "judul": "Utak-Atik Sistem Bahan Bakar Pada Motor",
+            "penulis": "Wahyu D.H",
+            "penerbit": "Zahara",
+            "tahun": "2019",
+            "harga": "50000"
+        },
+        {
+            "id": "004",
+            "judul": "Origami Kenal Lebih Dekat Dengan Melipat Kertas Dari Jepang",
+            "penulis": "Ade Gilang",
+            "penerbit": "Trans Idea",
+            "tahun": "2019",
+            "harga": "58000"
+        },
+        {
+            "id": "005",
+            "judul": "Aneka Kreasi Garnis Hiasan Manis Dan Harmonis",
+            "penulis": "Utami Rizki",
+            "penerbit": "Trans Idea",
+            "tahun": "2019",
+            "harga": "59000"
+        },
+        {
+            "id": "006",
+            "judul": "Panduan Praktis Perawatan Mobil Komponen Sistem Kelistrikan",
+            "penulis": "Basuki St",
+            "penerbit": "Gava Media",
+            "tahun": "2018",
+            "harga": "100000"
+        },
+        {
+            "id": "007",
+            "judul": "Ketrampilan Dari Sampah Plastik",
+            "penulis": "Nurma Pratama",
+            "penerbit": "Indoliterasi",
+            "tahun": "2019",
+            "harga": "60000"
+        },
+        {
+            "id": "008",
+            "judul": "Napza Ancaman, Bahaya, Regulasi Dan Solusi Penanggulangannya",
+            "penulis": "Aulia Fadli",
+            "penerbit": "Gava Media",
+            "tahun": "2018",
+            "harga": "61000"
+        },
+        {
+            "id": "009",
+            "judul": "Cara Mudah, Murah, Dan Indah Merangkai Bunga",
+            "penulis": "Sabria Kusnirianti",
+            "penerbit": "Trans Idea",
+            "tahun": "2019",
+            "harga": "58000"
+        },
+        {
+            "id": "010",
+            "judul": "Ide Kreatif Souvenir Pernikahan Hemat Tapi Elegan",
+            "penulis": "Natasya Aurielia",
+            "penerbit": "Trans Idea",
+            "tahun": "2018",
+            "harga": "58000"
+        },
+        {
+            "id": "011",
+            "judul": "Ragam Kreasi Anyaman Rotan Peluang Bisnis Menguntungkan",
+            "penulis": "Melanie Larasati",
+            "penerbit": "Trans Idea",
+            "tahun": "2019",
+            "harga": "58000"
+        },
+        {
+            "id": "012",
+            "judul": "Pasti Maju Dengan Bisnis Budidaya Muraibatu",
+            "penulis": "Saiful Aziz",
+            "penerbit": "Trans Idea",
+            "tahun": "2018",
+            "harga": "45000"
+        },
+        {
+            "id": "013",
+            "judul": "Cepat Sukses Cepat Kaya Jurus Sakti Melejitkan Karir Dan Bisnis",
+            "penulis": "Adrian Harimurti",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "54000"
+        },
+        {
+            "id": "014",
+            "judul": "Manaqib Syekh Abdul Qadir Jalani",
+            "penulis": "Muhammad Muhibbudin",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "65000"
+        },
+        {
+            "id": "015",
+            "judul": "Kawan Lama Ayahmu",
+            "penulis": "Hendy Lawson",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "66000"
+        },
+        {
+            "id": "016",
+            "judul": "Secangkir Kopi Berpikir Dan Berkepribadian Positif",
+            "penulis": "Alam Bachtiar",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "55000"
+        },
+        {
+            "id": "017",
+            "judul": "Mimpi Ayahku",
+            "penulis": "Evald Flisar",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "70000"
+        },
+        {
+            "id": "018",
+            "judul": "Kumpulan Materi Kultum Ustadz Gaul",
+            "penulis": "Maghruf Amin",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "57000"
+        },
+        {
+            "id": "019",
+            "judul": "Kisah-Kisah Kematian Husnul Khatimah",
+            "penulis": "M. Wifaqul",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "54500"
+        },
+        {
+            "id": "020",
+            "judul": "Jalan Dakwah Sang Pencerah",
+            "penulis": "Fatkhul Anas",
+            "penerbit": "Araska",
+            "tahun": "2019",
+            "harga": "58000"
+        },
+        {
+            "id": "021",
+            "judul": "Lucu-Lucu Tokoh Dunia",
+            "penulis": "Isa An",
+            "penerbit": "Araska",
+            "tahun": "2019",
+            "harga": "59000"
+        },
+        {
+            "id": "022",
+            "judul": "La Tahzan For Hijabers",
+            "penulis": "Humaira El Rahmi",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "54000"
+        },
+        {
+            "id": "023",
+            "judul": "Trik Kilat Membaca Pikiran Dan Kepribadian Orang Lain",
+            "penulis": "Hari Laksana",
+            "penerbit": "Araska",
+            "tahun": "2019",
+            "harga": "56000"
+        },
+        {
+            "id": "024",
+            "judul": "Senang Dan Bahagia Menjadi Guru Paud",
+            "penulis": "Dedi Damayanti",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "54000"
+        },
+        {
+            "id": "025",
+            "judul": "Kreatif Bertanam Semangka Non Biji",
+            "penulis": "Tim Penulis",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "43000"
+        },
+        {
+            "id": "026",
+            "judul": "Di Kedai Kopi The Ah Mei",
+            "penulis": "Nezar Patria",
+            "penerbit": "Diva Press",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "027",
+            "judul": "Mahir Bermain Gitar Tanpa Kursus",
+            "penulis": "Frangki Hernusa",
+            "penerbit": "Laksana",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "028",
+            "judul": "Belajar Membaca Lewat Gambar",
+            "penulis": "Rini Fazriana",
+            "penerbit": "Diva Press",
+            "tahun": "2019",
+            "harga": "62000"
+        },
+        {
+            "id": "029",
+            "judul": "Dasar-Dasar Keperawatan",
+            "penulis": "Mufidaturrohman",
+            "penerbit": "Gava Media",
+            "tahun": "2018",
+            "harga": "75000"
+        },
+        {
+            "id": "030",
+            "judul": "Panen Rezeki Dengan Stroberi",
+            "penulis": "Ariana Lukito",
+            "penerbit": "Literindo",
+            "tahun": "2018",
+            "harga": "40000"
+        },
+        {
+            "id": "031",
+            "judul": "Beternak Itik Manila Pasti Bisa Kaya",
+            "penulis": "Galuh Ambarsani",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "41000"
+        },
+        {
+            "id": "032",
+            "judul": "Kupas Habis Budidaya Ikan Bilis",
+            "penulis": "Diah Anita",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "41000"
+        },
+        {
+            "id": "033",
+            "judul": "Cara Waras Jadi Pengusaha",
+            "penulis": "Zulkifli Hasan",
+            "penerbit": "Star Books",
+            "tahun": "2018",
+            "harga": "51000"
+        },
+        {
+            "id": "034",
+            "judul": "Kaya Dengan Beternak Burung Dara",
+            "penulis": "Arie Pramesta",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "45000"
+        },
+        {
+            "id": "035",
+            "judul": "Kiat Sukses Berternak Burung Puyuh",
+            "penulis": "Ulin Nuha",
+            "penerbit": "Zahara",
+            "tahun": "2019",
+            "harga": "49000"
+        },
+        {
+            "id": "036",
+            "judul": "Mengintip Rahasia Sukses Budidaya Belut",
+            "penulis": "Dawud Achroni",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "46000"
+        },
+        {
+            "id": "037",
+            "judul": "Dasar-Dasar Teknik Kelistrikan Pada Mobil",
+            "penulis": "N. Apriyanto",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "48000"
+        },
+        {
+            "id": "038",
+            "judul": "Panduan Praktis Perawatan Sepeda Motor",
+            "penulis": "Drs. Daryanto",
+            "penerbit": "Gava Media",
+            "tahun": "2018",
+            "harga": "76000"
+        },
+        {
+            "id": "039",
+            "judul": "Aktivasi Mukjizat Surat Al-Faatihah",
+            "penulis": "Miftahul Arifin",
+            "penerbit": "Laksana",
+            "tahun": "2018",
+            "harga": "58000"
+        },
+        {
+            "id": "040",
+            "judul": "Kotak Hitam Sang Burung Manyar",
+            "penulis": "Suyatno ",
+            "penerbit": "Galang Press",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "041",
+            "judul": "Hamba Rabani",
+            "penulis": "Muhammad Robith",
+            "penerbit": "Noktah",
+            "tahun": "2018",
+            "harga": "54000"
+        },
+        {
+            "id": "042",
+            "judul": "Tirah",
+            "penulis": "Erast Yuu",
+            "penerbit": "Scritto",
+            "tahun": "2019",
+            "harga": "54000"
+        },
+        {
+            "id": "043",
+            "judul": "Subliminal Assassin",
+            "penulis": "Finn",
+            "penerbit": "Scritto",
+            "tahun": "2019",
+            "harga": "67000"
+        },
+        {
+            "id": "044",
+            "judul": "Disguise",
+            "penulis": "Yunita R. Saragi",
+            "penerbit": "Araska",
+            "tahun": "2019",
+            "harga": "53000"
+        },
+        {
+            "id": "045",
+            "judul": "Breathless",
+            "penulis": "Yulia Ang",
+            "penerbit": "Scritto",
+            "tahun": "2019",
+            "harga": "67000"
+        },
+        {
+            "id": "046",
+            "judul": "Tentang Ayana",
+            "penulis": "Reffi Dinar",
+            "penerbit": "Scritto",
+            "tahun": "2019",
+            "harga": "67000"
+        },
+        {
+            "id": "047",
+            "judul": "Selimut Mimpi",
+            "penulis": "R. Adrelas",
+            "penerbit": "Scritto",
+            "tahun": "2019",
+            "harga": "61000"
+        },
+        {
+            "id": "048",
+            "judul": "The Miracle Of Touch For Your Baby",
+            "penulis": "Dayu Pratyahara",
+            "penerbit": "Javalitera",
+            "tahun": "2018",
+            "harga": "54000"
+        },
+        {
+            "id": "049",
+            "judul": "Healthy Habits You Must Know",
+            "penulis": "Emirafan Tm",
+            "penerbit": "Javalitera",
+            "tahun": "2018",
+            "harga": "58000"
+        },
+        {
+            "id": "050",
+            "judul": "Budidaya Buah-Buahan",
+            "penulis": "Yulianto",
+            "penerbit": "Javalitera",
+            "tahun": "2019",
+            " harga": "43000"
+        },
+        {
+            "id": "051",
+            "judul": "Berternak Teripang Jadikan Uang",
+            "penulis": "Ahmad Thomy",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "47000"
+        },
+        {
+            "id": "052",
+            "judul": "Menangis Bersama Nabi",
+            "penulis": "Erfin Umar",
+            "penerbit": "Diva Press",
+            "tahun": "2018",
+            "harga": "62000"
+        },
+        {
+            "id": "053",
+            "judul": "Peaceful Life",
+            "penulis": "Zaharatun",
+            "penerbit": "Noktah",
+            "tahun": "2018",
+            "harga": "62000"
+        },
+        {
+            "id": "054",
+            "judul": "Dear Allah, Kasihilah Aku",
+            "penulis": "Nurul Lathifah",
+            "penerbit": "Diva Press",
+            "tahun": "2018",
+            "harga": "56000"
+        },
+        {
+            "id": "055",
+            "judul": "Keajaiban Sholat 5 Waktu Bersama Nabi",
+            "penulis": "Yanuar Arifin",
+            "penerbit": "Laksana",
+            "tahun": "2019",
+            "harga": "57000"
+        },
+        {
+            "id": "056",
+            "judul": "Melayani Suami Tercinta Layaknya Istri Nabi",
+            "penulis": "Nor Fadila",
+            "penerbit": "Noktah",
+            "tahun": "2018",
+            "harga": "56000"
+        },
+        {
+            "id": "057",
+            "judul": "Kalender Ibadah Sepanjang Tahun",
+            "penulis": "Abdullah Faqih",
+            "penerbit": "Noktah",
+            "tahun": "2018",
+            "harga": "55000"
+        },
+        {
+            "id": "058",
+            "judul": "Mukjizat 1/3 Malam",
+            "penulis": "Agoes Noer",
+            "penerbit": "Laksana",
+            "tahun": "2018",
+            "harga": "65000"
+        },
+        {
+            "id": "059",
+            "judul": "Dahsyatnya Shalat Tahajud Untuk Prestasi Akademik",
+            "penulis": "Yazid Al-Busthomi",
+            "penerbit": "Kaktus",
+            "tahun": "2018",
+            "harga": "76000"
+        },
+        {
+            "id": "060",
+            "judul": "Bila Cinta Bermula & Berakhir Pada Allah Maka Cinta Yan Lain Hanya Cerminan Cinta Kepada-Nya",
+            "penulis": "Arum Faiza",
+            "penerbit": "Noktah",
+            "tahun": "2019",
+            "harga": "65000"
+        },
+        {
+            "id": "061",
+            "judul": "Rumahku Madrasahku",
+            "penulis": "Nur Solikhin",
+            "penerbit": "Laksana",
+            "tahun": "2018",
+            "harga": "50000"
+        },
+        {
+            "id": "062",
+            "judul": "Bila Kau Kawin",
+            "penulis": "Aveus Har",
+            "penerbit": "Laksana",
+            "tahun": "2018",
+            "harga": "61000"
+        },
+        {
+            "id": "063",
+            "judul": "Ensiklopedia Tempat Paling Wowo Di Dunia",
+            "penulis": "Kak Rini",
+            "penerbit": "Laksana",
+            "tahun": "2019",
+            " harga ": "73000"
+        },
+        {
+            "id": "064",
+            "judul": "Bisnis Menu Diet Sehat",
+            "penulis": "Eko Siswanto",
+            "penerbit": "Laksana",
+            "tahun": "2018",
+            "harga": "61000"
+        },
+        {
+            "id": "065",
+            "judul": "Di Doakan Oleh 70 Ribu Malaikat",
+            "penulis": "A. Noer Che",
+            "penerbit": "Saufa",
+            "tahun": "2018",
+            "harga": "67000"
+        },
+        {
+            "id": "066",
+            "judul": "Catatan Sang Murabbi",
+            "penulis": "Arini Hidajati",
+            "penerbit": "Diva Press",
+            "tahun": "2018",
+            "harga": "61000"
+        },
+        {
+            "id": "067",
+            "judul": "Laku Ibadah Dan Bisnis",
+            "penulis": "Insan Nurrohman",
+            "penerbit": "Saufa",
+            "tahun": "2018",
+            "harga": "68000"
+        },
+        {
+            "id": "068",
+            "judul": "Teknik Jitu Penggemukan Kambing Potong",
+            "penulis": "Haryadi",
+            "penerbit": "Trans Idea",
+            "tahun": "2018",
+            "harga": "42000"
+        },
+        {
+            "id": "069",
+            "judul": "Panduan Lengkap Menyulam",
+            "penulis": "Stefani Yola",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "56000"
+        },
+        {
+            "id": "070",
+            "judul": "Kreasi Tas Dan Dompet Dari Kain Kanvas",
+            "penulis": "Alvi Putri",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "58000"
+        },
+        {
+            "id": "071",
+            "judul": "Budidaya Lada Mengundang Laba",
+            "penulis": "Dawud Achroni",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "43000"
+        },
+        {
+            "id": "072",
+            "judul": "Produk Mioteknologi Pediosin Pengawet Alami Pangan",
+            "penulis": "Dr. Tri Mawarti",
+            "penerbit": "Global Pustaka",
+            "tahun": "2018",
+            "harga": "45000"
+        },
+        {
+            "id": "073",
+            "judul": "Ekonomi Cukup",
+            "penulis": "Sri Edi",
+            "penerbit": "Kompas",
+            "tahun": "2018",
+            "harga": "73500"
+        },
+        {
+            "id": "074",
+            "judul": "Statistik Untuk Kesehatan",
+            "penulis": "Wiratna Sujarweni",
+            "penerbit": "Gava Media",
+            "tahun": "2018",
+            "harga": "100000"
+        },
+        {
+            "id": "075",
+            "judul": "Budidaya Padi",
+            "penulis": "Hermawati",
+            "penerbit": "Javalitera",
+            "tahun": "2018",
+            "harga": "43000"
+        },
+        {
+            "id": "076",
+            "judul": "I Am A Happy Vegetarian",
+            "penulis": "Karina Padmansuri",
+            "penerbit": "Solusibooks",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "077",
+            "judul": "Jalan Sehat Dengan Sports Therapy",
+            "penulis": "Michael",
+            "penerbit": "Kompas",
+            "tahun": "2018",
+            "harga": "50000"
+        },
+        {
+            "id": "078",
+            "judul": "Pintar Mengelola Keuangan Keluarga Sakinah",
+            "penulis": "Akram Ridha",
+            "penerbit": "Tabiya Media",
+            "tahun": "2018",
+            "harga": "50000"
+        },
+        {
+            "id": "079",
+            "judul": "Kisah 10000 Yang Mengubah Hidupku",
+            "penulis": "Josef Bataona",
+            "penerbit": "Kompas",
+            "tahun": "2018",
+            "harga": "54000"
+        },
+        {
+            "id": "080",
+            "judul": "Raih Untung Dari Budidaya Kangkung",
+            "penulis": "Denny Maulana",
+            "penerbit": "Trans Idea ",
+            "tahun": "2018",
+            "harga": "45000"
+        },
+        {
+            "id": "081",
+            "judul": "Kamus Perbankan",
+            "penulis": "Trikaloka",
+            "penerbit": "Mitra Pelajar",
+            "tahun": "2018",
+            "harga": "76000"
+        },
+        {
+            "id": "082",
+            "judul": "Buku Panduan Merajut",
+            "penulis": "Yeni Rahmania",
+            "penerbit": "Zahara",
+            "tahun": "2019",
+            "harga": "58000"
+        },
+        {
+            "id": "083",
+            "judul": "Kenari Kecil Dari Kalabahi",
+            "penulis": "Tim Penulis",
+            "penerbit": "Kompas",
+            "tahun": "2018",
+            "harga": "70000"
+        },
+        {
+            "id": "084",
+            "judul": "Pengelolaan Kesehatan Lingkungan",
+            "penulis": "Mundiatun",
+            "penerbit": "Gava Media",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "085",
+            "judul": "Spa Kaki Diabetes",
+            "penulis": "Budhi Purwanto",
+            "penerbit": "Gava Media",
+            "tahun": "2018",
+            "harga": "48000"
+        },
+        {
+            "id": "086",
+            "judul": "Cara Mudah Kreasi Fotografi Plud Editing Image",
+            "penulis": "Widada",
+            "penerbit": "Gava Media",
+            "tahun": "2018",
+            "harga": "54000"
+        },
+        {
+            "id": "087",
+            "judul": "Panduan Praktis Perawatan Mobil Komponen Casis Dan Transmisi",
+            "penulis": "Daryanto",
+            "penerbit": "Gava Media",
+            "tahun": "2018",
+            "harga": "100000"
+        },
+        {
+            "id": "088",
+            "judul": "Panduan Praktis Perawatan Mobil Komponen Mesin",
+            "penulis": "Basuki St",
+            "penerbit": "Gava Media",
+            "tahun": "2018",
+            "harga": "100000"
+        },
+        {
+            "id": "089",
+            "judul": "Budidaya Kambing Etawa",
+            "penulis": "Yulianto",
+            "penerbit": "Javalitera",
+            "tahun": "2018",
+            "harga": "44000"
+        },
+        {
+            "id": "090",
+            "judul": "Budidaya Ayam Potong Peluang Usaha Unggul",
+            "penulis": "Saelinda",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "44000"
+        },
+        {
+            "id": "091",
+            "judul": "Kupas Tuntas Budidaya Terong",
+            "penulis": "Sunkiny Dawud",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "45000"
+        },
+        {
+            "id": "092",
+            "judul": "Budidaya Sayuran",
+            "penulis": "Hermawati",
+            "penerbit": "Javalitera",
+            "tahun": "2018",
+            "harga": "44000"
+        },
+        {
+            "id": "093",
+            "judul": "Bisnis Unggulan Budidaya Ikan Sarden",
+            "penulis": "Sendi Suseno",
+            "penerbit": "Zahara",
+            "tahun": "2018",
+            "harga": "44000"
+        },
+        {
+            "id": "094",
+            "judul": "7 Malam Pertama Di Alam Kubur",
+            "penulis": "Ahmad Bahaudin",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "53000"
+        },
+        {
+            "id": "095",
+            "judul": "The Leadership Cards",
+            "penulis": "Tantra Maldeva",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "53000"
+        },
+        {
+            "id": "096",
+            "judul": "Trik Kilat Presentasi Memikat",
+            "penulis": "Hari Laksana",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "55000"
+        },
+        {
+            "id": "097",
+            "judul": "Doa-Doa Mustajab Istri",
+            "penulis": "Ahya Alfi",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "53000"
+        },
+        {
+            "id": "098",
+            "judul": "9 Langkah Memikat Hati Lawan, Mitra Ninis Dan Pasangan",
+            "penulis": "Hari Laksana",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "51000"
+        },
+        {
+            "id": "099",
+            "judul": "Ada Hantu Di Hatimu",
+            "penulis": "Darus Armedian",
+            "penerbit": "Araska",
+            "tahun": "2018",
+            "harga": "45000"
+        },
+        {
+            "id": "100",
+            "judul": "Para Istri Dan Wanita Harus Baca",
+            "penulis": "Yanuar Arifin",
+            "penerbit": "Saufa",
+            "tahun": "2018",
+            "harga": "54000"
+        },
+        {
+            "id": "101",
+            "judul": "Berlatih Solmisasi",
+            "penulis": "Dedi Tri Riyadi",
+            "penerbit": "Basa Basi",
+            "tahun": "2018",
+            "harga": "58000"
+        },
+        {
+            "id": "102",
+            "judul": "Baduy Terkadang Cinta Berjalan Mengejutkan",
+            "penulis": "Rani Ramdani",
+            "penerbit": "Diva Press",
+            "tahun": "2018",
+            "harga": "58000"
+        },
+        {
+            "id": "103",
+            "judul": "Humor Guru Sufi",
+            "penulis": "A Kang Mastur",
+            "penerbit": "Diva Press",
+            "tahun": "2018",
+            "harga": "58000"
+        },
+        {
+            "id": "104",
+            "judul": "Berguru Kepada Rindu",
+            "penulis": "Acep Zamzam",
+            "penerbit": "Basa Basi",
+            "tahun": "2018",
+            "harga": "47000"
+        },
+        {
+            "id": "105",
+            "judul": "Kiat Praktis Menjadi Penulis Kreatif & Produktif",
+            "penulis": "Heru Kurniawan",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "64400"
+        },
+        {
+            "id": "106",
+            "judul": "My Golden Age_Kisah Teladan Nabi Muhammad",
+            "penulis": "Kak Zhivana",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "72800"
+        },
+        {
+            "id": "107",
+            "judul": "My Golden Age_Kisah Masa Kecil Nabi & Rasul",
+            "penulis": "Kak Zhivana",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "72800"
+        },
+        {
+            "id": "108",
+            "judul": "Kelas Anak Pintar_Asyiknya Belajar Berhitung",
+            "penulis": "Heru Kurniawan & Cesilia Prawening",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "64000"
+        },
+        {
+            "id": "109",
+            "judul": "Kelas Anak Pintar_Dasar-Dasar Membaca & Menulis",
+            "penulis": "Heru Kurniawan & Umi Khomsiyatun",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "70000"
+        },
+        {
+            "id": "110",
+            "judul": "Kelas Anak Pintar_Asyiknya Belajar Calistung",
+            "penulis": "Heru Kurniawan & Cesilia Prawening",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "61600"
+        },
+        {
+            "id": "111",
+            "judul": "Kelas Anak Pintar_Cepat Lancar Membaca Dengan Metode Huruf",
+            "penulis": "Heru Kurniawan & Dian Wahyu Sri Lestari",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "112",
+            "judul": "Pakai Jilbab, Kok, Pacaran?",
+            "penulis": "Retno D.N.",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "62000"
+        },
+        {
+            "id": "113",
+            "judul": "Jatuh-Bangun Mark Zuckerberg",
+            "penulis": "Irma El-Mira",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "63000"
+        },
+        {
+            "id": "114",
+            "judul": "Golden Age Copy Coloring_Mewarnai Kendaraan Tempur",
+            "penulis": "Checklist Studio",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "39000"
+        },
+        {
+            "id": "115",
+            "judul": "Golden Age Copy Coloring_Mewarnai Alat Berat",
+            "penulis": "Checklist Studio",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "39000"
+        },
+        {
+            "id": "116",
+            "judul": "Golden Age Copy Coloring_Mewarnai Mobil Balap",
+            "penulis": "Checklist Studio",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "39000"
+        },
+        {
+            "id": "117",
+            "judul": "Jangan Ambil Suamiku…",
+            "penulis": "Zhivana Astri, Dkk",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "62000"
+        },
+        {
+            "id": "118",
+            "judul": "Cara Praktis Membaca Kepribadian Orang Lain",
+            "penulis": "Harfi Muthia Rahmi, M.Psi., Psikolog",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "56000"
+        },
+        {
+            "id": "119",
+            "judul": "Hal-Hal Kecil Bermakna Besar",
+            "penulis": "Mhd. Rois Almaududy",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "63000"
+        },
+        {
+            "id": "120",
+            "judul": "Aku Pintar Tajwid Untuk Muslim Cilik",
+            "penulis": "Kak Megah & Kak Rohmat",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "121",
+            "judul": "Golden Age Book_Pintar Baca & Tulis",
+            "penulis": "Putri Puji Ayu Lestari & Dian Wahyu Sri Lestari",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "70000"
+        },
+        {
+            "id": "122",
+            "judul": "Jatuh-Bangun Jack Ma",
+            "penulis": "Irma El-Mira",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "61000"
+        },
+        {
+            "id": "123",
+            "judul": "Jatuh-Bangun Bill Gates",
+            "penulis": "Ervina Pitasari",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "61000"
+        },
+        {
+            "id": "124",
+            "judul": "Aku Ingin Sekolah Cepat Lancar Membaca",
+            "penulis": "Heru Kurniawan & Feni Dafiniyatul",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "73000"
+        },
+        {
+            "id": "125",
+            "judul": "Menyimak Kisah, Menyibak Hikmah Jilid 1",
+            "penulis": "Mhd. Rois Almaududy",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "66000"
+        },
+        {
+            "id": "126",
+            "judul": "Menyimak Kisah, Menyibak Hikmah Jilid 2",
+            "penulis": "Mhd. Rois Almaududy",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "58000"
+        },
+        {
+            "id": "127",
+            "judul": "Aku Ingin Sekolah_Pintar Menulis Huruf Tegak Bersambung",
+            "penulis": "Heru Kurniawan, Endah Kusumaningrum, Dian Wahyu Sri Lestari",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "70000"
+        },
+        {
+            "id": "128",
+            "judul": "My Golden Age_Kisah Masa Kecil Nabi Muhammad Saw",
+            "penulis": "Kak Zhivana",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "67200"
+        },
+        {
+            "id": "129",
+            "judul": "Wow! Serunya Mendidik Anak",
+            "penulis": "Heru Kurniawan",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "61000"
+        },
+        {
+            "id": "130",
+            "judul": "Buku Pintar Percakapan Bahasa Jepang Sehari-Hari",
+            "penulis": "Riskaninda Maharani",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "61000"
+        },
+        {
+            "id": "131",
+            "judul": "Asyik & Seru Mengurus Bayi",
+            "penulis": "Budi W.",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "61000"
+        },
+        {
+            "id": "132",
+            "judul": "Kisah, Perjuangan, & Inspirasi Chairul Tanjung",
+            "penulis": "Punto Ali Fahmi",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "61000"
+        },
+        {
+            "id": "133",
+            "judul": "Kisah, Perjuangan, & Inspirasi Tri Rismaharini",
+            "penulis": "Ervina Pitasari",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "61000"
+        },
+        {
+            "id": "134",
+            "judul": "Jejak Sejarah Andalusia",
+            "penulis": "Achmad Farid",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "72800"
+        },
+        {
+            "id": "135",
+            "judul": "Hidup Sesudah Mati",
+            "penulis": "Haidar Musyafa",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "66000"
+        },
+        {
+            "id": "136",
+            "judul": "Panduan Praktis Haji & Umrah",
+            "penulis": "Megah Tinambun",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "46000"
+        },
+        {
+            "id": "137",
+            "judul": "Smart & Easy Daily Conversation",
+            "penulis": "Nidhom Khoeron",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "61600"
+        },
+        {
+            "id": "138",
+            "judul": "Belajar Shalat, Yuk!",
+            "penulis": "Bilif Abduh",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "77000"
+        },
+        {
+            "id": "139",
+            "judul": "Dahsyatnya Potensi Akal & Hati Kita",
+            "penulis": "Haidar Musyafa",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "63000"
+        },
+        {
+            "id": "140",
+            "judul": "Yuk, Jadi Remaja Unggul!",
+            "penulis": "Nidhom Khoeron, Ririn Kada, Mariana Puspa",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "63000"
+        },
+        {
+            "id": "141",
+            "judul": "Cepat Pintar Percakapan Bahasa Inggris",
+            "penulis": "Muryani J. Semita",
+            "penerbit": "Ceklist",
+            "tahun": "2018",
+            "harga": "71000"
+        },
+        {
+            "id": "142",
+            "judul": "Logika Dan Matematika",
+            "penulis": "Muhammad Rusli, I Ketut Putu Suniantara Dan Anggun Nugroho",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "143",
+            "judul": "Cara Mudah Menyamak Kulit Kambing ",
+            "penulis": "Prof. Dr. Rer. Nat. Ir. Anwar Kasim; Dr. Ir. Alfi Asben, M. Si.; Sri Mutiar, S. Pt., M. P.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "61600"
+        },
+        {
+            "id": "144",
+            "judul": "Teknik Dasar Menggambar Bentuk",
+            "penulis": "Miky Endro Santoso, S. Sn., M.T.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "59000"
+        },
+        {
+            "id": "145",
+            "judul": "Plastikultur, Penggunaan Mulsa Plastik Untuk Produksi Tanaman Sayuran",
+            "penulis": "Fahrurrozi",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "43000"
+        },
+        {
+            "id": "146",
+            "judul": "Developing English Skill, Edisi Terbaru Untuk Guru Smp, Sma, Dan Umum",
+            "penulis": "M. Zainul Arifin Pwd",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "63000"
+        },
+        {
+            "id": "147",
+            "judul": "Seri Cerita  Dongeng Dunia: Kumpulan Dongeng Negeri Amerika, Kereta Api Di Arizona",
+            "penulis": "Winkanda Satria Putra",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "148",
+            "judul": "Indonesia Mendunia-Candi Borobudur, Candiprambanan, Dan Keajaiban Yang Lain",
+            "penulis": "Ismadi, Drs.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "50400"
+        },
+        {
+            "id": "149",
+            "judul": "Aku Suka Menari, I Love Dancing",
+            "penulis": "Askalin",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "50400"
+        },
+        {
+            "id": "150",
+            "judul": "Indonesia Mendunia, Wayang, Keris Dan Keajaiban Yang Lain",
+            "penulis": "Ismadi, Drs.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "50400"
+        },
+        {
+            "id": "151",
+            "judul": "Panduan Praktis Membuat Biogas Portabel Skala Rumah Tangga Dan Industri, Edisi Dwi Bahasa Indonesia-Inggris",
+            "penulis": "Dr. Ir. Hardoyo M. Eng - Ir. M. C. Tri Atmodjo M. Si - Ir. Dadang Rosadi, M. Eng - M. Sigit Cahyono",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "152",
+            "judul": "Keuangan Berbasis Perilaku",
+            "penulis": "Supramono, Pambayun Kinasih Yekni Nastiti Dan Theresia Woro Damayanti",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "55000"
+        },
+        {
+            "id": "153",
+            "judul": "Seri Yuk Mewarnai Buah Mancanegara ",
+            "penulis": "Tim Kreatif Rainbow",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "55000"
+        },
+        {
+            "id": "154",
+            "judul": "Perancangan Tata Kelola Teknologi Informasi",
+            "penulis": "Bambang Gunawan, Se., St., Mm.; Faisal Adrian Pratama, S. Kom., M. Msi",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "76000"
+        },
+        {
+            "id": "155",
+            "judul": "Perencanaan Keuangan, Dilengkapi Tanya Jawab Seputar Perencanaan Keuangan",
+            "penulis": "Maya Malinda",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "61600"
+        },
+        {
+            "id": "156",
+            "judul": "Panduan Praktis Membangun Mail Server Handal Dan Gratis Hingga Online",
+            "penulis": "Hardana, S.Kom. Dan Sapto Subeqhi, S.Kom.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "61600"
+        },
+        {
+            "id": "157",
+            "judul": "Using Good English For Toefl Preparation",
+            "penulis": "M. Zainul Arifin Pwd",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "66000"
+        },
+        {
+            "id": "158",
+            "judul": "How To Manage Customer Voice, Edisi 2",
+            "penulis": "Budi Haryono, Pm, Prof Dr",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "50000"
+        },
+        {
+            "id": "159",
+            "judul": "Seri Yuk Mewarnai, Bunga Mancanegara",
+            "penulis": "Tim Kreatif Rainbow",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "50000"
+        },
+        {
+            "id": "160",
+            "judul": "Seri Yuk Mewarnai Bunga Indonesia",
+            "penulis": "Tim Kreatif Rainbow",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "54000"
+        },
+        {
+            "id": "161",
+            "judul": "Meteor School",
+            "penulis": "Ervina Dyah P",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "55000"
+        },
+        {
+            "id": "162",
+            "judul": "Seri Yuk Mewarnai Buah Indonesia 1",
+            "penulis": "Tim Kreatif Rainbow",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "54000"
+        },
+        {
+            "id": "163",
+            "judul": "How To Be A Profesional Customer Service",
+            "penulis": "Budi Haryono, Pm, Prof Dr",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "164",
+            "judul": "Healthy Menu Untuk Penderita Penyakit Jantung ",
+            "penulis": "Khusnul Khotimah Dan Permata Ilmu Jogjakarta",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "58000"
+        },
+        {
+            "id": "165",
+            "judul": "Mudah Memahami Dan Mengimplementasikan Ekonomi Makro Disertai Teori, Soal Diskusi, Dan Studi Kasus",
+            "penulis": "Handy Ariwibowo, Alexander Wirapraja Dan Iman Wijoyo",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "56000"
+        },
+        {
+            "id": "166",
+            "judul": "Praktikum Akuntansi, Kasus : Pt Sejahtera Sukses Makmur",
+            "penulis": "Mia Ika Rahmawati; Lydia Setyawardani; R. Yudi Sidharta",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "167",
+            "judul": "Studi Kasus Sebagai Riset, Panduan Menulis Bagi Mahasiswa Diploma 3 Kesehatan",
+            "penulis": "Dr. Suprayitno, S. Kp. M. Kes Dan Dr. Sri Mugianti, Ns. M. Kep",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "50000"
+        },
+        {
+            "id": "168",
+            "judul": "Rumah Untuk Aira",
+            "penulis": "Anerusi",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "56000"
+        },
+        {
+            "id": "169",
+            "judul": "Pemrograman Python Untuk Ilmu Komputer Dan Teknik",
+            "penulis": "Widodo Budihaarto, Ssi, Mkom",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "61600"
+        },
+        {
+            "id": "170",
+            "judul": "Struktur Data",
+            "penulis": "I Komang Setia Buana, S. Kom., M. T.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "64000"
+        },
+        {
+            "id": "171",
+            "judul": "Manajemen Pendidikan",
+            "penulis": "Dr. Satrijo Budiwibowo, M.M.; Dra. Sudarmiani, M. Pd.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "73000"
+        },
+        {
+            "id": "172",
+            "judul": "Seri Cerita Dongeng Negeri Nigeria: Drum Ajaib",
+            "penulis": "Winkanda Satria Putra",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "78000"
+        },
+        {
+            "id": "173",
+            "judul": "Sukses Budi Daya Jahe Organik Di Pekarangan Dan Perkebunan",
+            "penulis": "Hieronymus Budi Susanto",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "75000"
+        },
+        {
+            "id": "174",
+            "judul": "Buta Katarak, Kebutaan Karena Katarak ",
+            "penulis": "Dr. Chalid Kurniawan, Sp.M., M.Kes",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "65000"
+        },
+        {
+            "id": "175",
+            "judul": "Hukum Tata Negara Indonesia Edisi Revisi",
+            "penulis": "Prof. Dr. Lintje Anna Marpaung, S.H., M.H.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "74000"
+        },
+        {
+            "id": "176",
+            "judul": "Ujian Bahasa Inggris Smp/Mts - Ah... Gampang Banget! Kelas Vii, Viii, Ix, Edisi Lengkap",
+            "penulis": "Tim Edukasi Bahasa Inggris",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "70000"
+        },
+        {
+            "id": "177",
+            "judul": "Seri Cerita Dongeng Dunia: Kumpulan Dongeng Negeri Polandia, Putri Ladna Dan Pangeran Dobrotek",
+            "penulis": "Winkanda Satria Putra",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "65000"
+        },
+        {
+            "id": "178",
+            "judul": "Teknik Pengelasan Busur Manual (Smaw) Untuk Smk/ Mak Kelas Xi",
+            "penulis": "Dr. Suranto, St., Mm. & Joko Pramono",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "73000"
+        },
+        {
+            "id": "179",
+            "judul": "Seri Apotek Dapur: Raja Obat Alami Wortel Si Orange Kaya Nutrisi",
+            "penulis": "Ketty Husnia Wardany",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "65000"
+        },
+        {
+            "id": "180",
+            "judul": "Teknik Instalasi Dan Re-Mastering Sistem Operasi Windows",
+            "penulis": "Madcoms",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "78000"
+        },
+        {
+            "id": "181",
+            "judul": "Teknik Pengelasan Busur Manual (Smaw) Untuk Smk/ Mak Kelas Xii",
+            "penulis": "Dr. Suranto, St., Mm. & Joko Pramono",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "65000"
+        },
+        {
+            "id": "182",
+            "judul": "Pengajaran Apresiasi Puisi, Mencipta Puisi, Memahami Puisi Dan Membaca Puisi Dan Deklamisi",
+            "penulis": "Dr. Agus Yuliantoro, M.Hum",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "65000"
+        },
+        {
+            "id": "183",
+            "judul": "Restoran Dan Kegiatannya",
+            "penulis": "Firman Sinaga, Sst. Par., M.Si.Par., Cht.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "70000"
+        },
+        {
+            "id": "184",
+            "judul": "Forget Me Not, Can I Fotrget You",
+            "penulis": "Indriani Taslim",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "70000"
+        },
+        {
+            "id": "185",
+            "judul": "26 Minuman Tradisional Khas Yogyakarta Dari Bir Jawa Sampai Wedang Uwuh",
+            "penulis": "Murdijati Gardjito Dan Retnosyari Septiyani",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "50000"
+        },
+        {
+            "id": "186",
+            "judul": "155 Tips Dan Trik Populer Microsoft Powerpoint 2010-2013-2016",
+            "penulis": "Madcoms",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "187",
+            "judul": "Administrasi Dan Akuntabilitas Publik",
+            "penulis": "Prof. Dr. Drs. Rakhmat, M.S.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "188",
+            "judul": "Top Tips Dan Trik Microsoft Office Untuk Bisnis Dan Perkantoran",
+            "penulis": "Wahana Komputer",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "189",
+            "judul": "Justice League Unlimited, Jumbo Coloring And Activity Book Includes Sticker! Cvan36229",
+            "penulis": "Warner Bros",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "60000"
+        },
+        {
+            "id": "190",
+            "judul": "Panduan Gizi Dan Kesehatan Anak Sekolah",
+            "penulis": "Dyah Umiyarni Purnamasari, Skm, M.Si.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "85000"
+        },
+        {
+            "id": "191",
+            "judul": "The Prisoner, Cinta Yang Terpenjara Oleh Masa Lalu",
+            "penulis": "Loryta Chai",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "87000"
+        },
+        {
+            "id": "192",
+            "judul": "Teori Caring Dan Aplikasi Dalam Pelayanan Keperawatan",
+            "penulis": "Bernarda Teting, Bsn., Msn., Ns. Elfina Natalia, M. Kep. Dan Ns. Made Ermayani, M.Kep.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "78000"
+        },
+        {
+            "id": "193",
+            "judul": "Praktikum Pengauditan Pemrosesan Data Elektronik (Pde) Dan Pengenalan Software Audit (Acl) Kasus: Pt Nur Tahmida",
+            "penulis": "Krisna Damayanti, Wimba Respatia Dan Nenny Syahrenny.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "87000"
+        },
+        {
+            "id": "194",
+            "judul": "Sehat Dengan Juice, Khusus Untuk Penyakit Kanker Payudara, Liver, Alergi Dan Sembelit",
+            "penulis": "Yohanes Sunardi",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "99000"
+        },
+        {
+            "id": "195",
+            "judul": "Untung Selangit Dari Agribisnis Karet",
+            "penulis": "H. Rahmat Rukmana",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "89000"
+        },
+        {
+            "id": "196",
+            "judul": "Strategi Menegakkan Mutu Pendidikan Tinggi Berbasis Kkni,Kerangka Kualifikasi Nasional Indonesia",
+            "penulis": "Dr. Willy Susilo, S.Pd., Mba",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "78000"
+        },
+        {
+            "id": "197",
+            "judul": "Memanfaatkan Aplikasi Pendukung Android Pada Sistem Operasi Windows",
+            "penulis": "Madcoms",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "77000"
+        },
+        {
+            "id": "198",
+            "judul": "Living Forward, A Proven Plan To Stop Drifting And Get The Life You Want",
+            "penulis": "Micael Hyatt ; Daniel Harkavy",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "78000"
+        },
+        {
+            "id": "199",
+            "judul": "Panduan Lengkap Pengembangan Softskill, Interpersonal Dan Intrapersonal Skill",
+            "penulis": "Feri Sulianta",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "78000"
+        },
+        {
+            "id": "200",
+            "judul": "Great Mom, Strong Son, Rahasia Mendidik Anak Laki-Laki Menjadi Pribadi Super",
+            "penulis": "Bety Kristianto & Jessica Valentina",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "77000"
+        },
+        {
+            "id": "201",
+            "judul": "Hak Kekayaan Intelektual Sebagai Jaminan Kredit",
+            "penulis": "Iswi Hariyani, Dr. Cita Yustisia Serfiyani S.H., M.H. Dan R. Serfianto D. Purnomo",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "77000"
+        },
+        {
+            "id": "201",
+            "judul": "155 Tips Dan Trik Populer Microsoft Word 2010-2013-2016",
+            "penulis": "Madcoms",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "78000"
+        },
+        {
+            "id": "202",
+            "judul": "Psikologi Lintas Budaya, Kisah Para Pejalan Bangkok, Singapura, Dan Jakarta",
+            "penulis": "S. Intan Savitri, Amy Mardhatillah Dan Irfan Aulia Syaiful",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "99000"
+        },
+        {
+            "id": "203",
+            "judul": "Promosi Kesehatan Gigi Dan Mulut",
+            "penulis": "Salikun, Hermien Nugraheni Dan Tri Wiyatini",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "87000"
+        },
+        {
+            "id": "204",
+            "judul": "Manajemen Inovasi Teknologi",
+            "penulis": "Roland Y.H.Silitonga Dan Teguh E.N.Sitepu",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "75000"
+        },
+        {
+            "id": "205",
+            "judul": "Mahir Komputerisasi Akuntansi Dengan Myob Accounting V.23",
+            "penulis": "Arvian Triantoro",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "78400"
+        },
+        {
+            "id": "206",
+            "judul": "Estimasi Biaya Konstruksi, Sanitasi, Dan Perawatan Gedung Smk/ Mak Kelas Xi",
+            "penulis": "Ridlo Erfan Nugroho, S.T. Dan Suryaningrum, S.T.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "81000"
+        },
+        {
+            "id": "207",
+            "judul": "Panduan Lengkap Pemrograman C# Untuk Menguasai Unity",
+            "penulis": "Punto Damar",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "81000"
+        },
+        {
+            "id": "208",
+            "judul": "Untung Berlipat Dari Budi Daya Lada Tanaman Multi Manfaat",
+            "penulis": "H. Rahmat Rukmana",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "84000"
+        },
+        {
+            "id": "209",
+            "judul": "Sukses Budi Daya Bawang Merah Di Pekarangan Dan Perkebunan",
+            "penulis": "H. Rahmat Rukmana Dan H. Herdi Yudirachman",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "81200"
+        },
+        {
+            "id": "210",
+            "judul": "Estimasi Biaya Konstruksi, Sanitasi, Dan Perawatan Gedung Smk/ Mak Kelas Xii",
+            "penulis": "Ridlo Erfan Nugroho, S.T. Dan Suryaningrum, S.T.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "81000"
+        },
+        {
+            "id": "211",
+            "judul": "Pasti Dapat Emas Osn Fisika Smp Sederajat",
+            "penulis": "Taufik Hidayat, S.Si.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "81000"
+        },
+        {
+            "id": "212",
+            "judul": "Gigi, Merawat Dan Menjaga Kesehatan Gigi Dan Mulut ",
+            "penulis": "Drg. Dwi Setianingtyas, Sp.Pm Dan Drg. Agam Ferry Erwana, Sp.Pm",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "81000"
+        },
+        {
+            "id": "213",
+            "judul": "Ultra Excellent Bedah Soal Dan Materi Dengan Jitu Usbn 2019 Sd",
+            "penulis": "Tim Penyusun",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "82000"
+        },
+        {
+            "id": "214",
+            "judul": "Elektronika Digital Dan Sistem Embedded",
+            "penulis": "Widodo Budihaarto, Ssi, Mkom",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "84000"
+        },
+        {
+            "id": "215",
+            "judul": "English For Business Communication (3rd Revision) Tahun Akademik 2018/ 2019",
+            "penulis": "Dra. Wiwiek Srikandi Shabrie, M.M",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "82000"
+        },
+        {
+            "id": "216",
+            "judul": "Akuntansi Manajemen",
+            "penulis": "Dr. Etty Indriani, M.M,. M.Si.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "83000"
+        },
+        {
+            "id": "217",
+            "judul": "Praktikum Perpajakan ",
+            "penulis": "Agung Kristiawan, S.E., Msa. Ak. Ca.Dan Drs. Soetarko Rono Soewito, Ec., M.M.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "81000"
+        },
+        {
+            "id": "218",
+            "judul": "Cara Mudah Menggunakan Autocad, Untuksmua Versi Dan Disiplin Ilmu",
+            "penulis": "Andrew Stefano, S.T., M.T.Arch.",
+            "penerbit": "Andi Offsite",
+            "tahun": "2018",
+            "harga": "84000"
+        },
+        {
+            "id": "219",
+            "judul": "Strawbeery Generation",
+            "penulis": "Rhenald Kasali",
+            "penerbit": "Mizzan",
+            "tahun": "2018",
+            "harga": "67000"
+        },
+        {
+            "id": "220",
+            "judul": "Self Driving",
+            "penulis": "Rhenald Kasali",
+            "penerbit": "Mizzan",
+            "tahun": "2018",
+            "harga": "86000"
+        },
+        {
+            "id": "221",
+            "judul": "Tomorrow Is Today",
+            "penulis": "Rhenald Kasali",
+            "penerbit": "Mizzan",
+            "tahun": "2017",
+            "harga": "95000"
+        },
+        {
+            "id": "222",
+            "judul": "Self Disruption",
+            "penulis": "Rhenald Kasali",
+            "penerbit": "Mizzan",
+            "tahun": "2018",
+            "harga": "100000"
+        },
+        {
+            "id": "223",
+            "judul": "Sentra",
+            "penulis": "Rhenald Kasali",
+            "penerbit": "Mizzan",
+            "tahun": "2018",
+            "harga": "92000"
+        }
+    ]
+}

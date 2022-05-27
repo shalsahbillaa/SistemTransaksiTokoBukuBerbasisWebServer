@@ -1,0 +1,11 @@
+<starbooks>
+    <transaksi>
+        <tanggal>09-Feb-2021, 11:53:52</tanggal>
+        <judul>Pengantar Lengkap Teknik Dasar Kelistrikan</judul>
+        <harga>50000</harga>
+        <jumlah>2</jumlah>
+        <total>100000</total>
+        <tunai>120000</tunai>
+        <kembalian>20000</kembalian>
+    </transaksi>
+</starbooks>
