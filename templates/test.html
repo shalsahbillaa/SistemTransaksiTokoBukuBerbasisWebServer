@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<form action="postenquiry.php" method="post" name="myform">
+    <label>Num of People</label>	<input type="text" name="qty" /><br/>
+    <label>Price</label>	<input type="text" name="Cost" onkeyup="calculate()"/><br/>
+    <h2 type="text" id="test" name="textbox5"></h2>
+ </form>
+
+<script>
+function calculate(){ 
+ if(isNaN(document.forms["myform"]["qty"].value) || document.forms["myform"]["qty"].value==""){ 
+ var text1 = 0; 
+ }else{ 
+ var text1 = parseInt(document.forms["myform"]["qty"].value); 
+ } 
+ if(isNaN(document.forms["myform"]["Cost"].value) || document.forms["myform"]["Cost"].value==""){ 
+ var text2 = 0; 
+ }else{ 
+ var text2 = parseFloat(document.forms["myform"]["Cost"].value); 
+ } 
+ document.getElementById("test").innerHTML = (text1*text2); 
+ }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width-device-width, initial-scale=1.0">
+	<title>StartBook - Filter</title>
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+	<style type="text/css">
+		*{
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+			font-family: 'Poppins', sans-serif;
+		}
+		
+		body{
+			background-color: #f2f0f0;
+			margin: 20px 30px;
+		}
+
+		.topnav {
+		  background-color: #d3d3d3;
+		  overflow: hidden;
+		}
+
+		.topnav a {
+		  float: left;
+		  color: black;
+		  text-align: center;
+		  padding: 14px 16px;
+		  text-decoration: none;
+		  font-size: 17px;
+		}
+
+		.topnav a:hover {
+		  background-color: #ddd;
+		  color: black;
+		}
+
+		.topnav a.active {
+		  background-color: #bf5be1;
+		  color: white;
+		}
+
+		.listbook{
+			background-color: white;
+			width: 85%;
+			height: 110px;
+			max-height: 150px;
+			border-radius: 10px;
+			box-shadow: 3px 3px 6px #c2c2c2;
+			margin: 14px;
+			align-items: center;
+			justify-content: center;
+			padding: 5px;	
+		}
+
+		.box{
+			margin-top: 50px;
+	        padding: 30px;
+	        width: 90%;
+	        height: auto;
+	        max-height: 100%
+	        max-height: 700px;
+	        border-radius: 20px;
+	        align-items: center;
+	        background-color:   white;
+	        box-shadow: 3px 3px 6px #c2c2c2;
+		}
+
+		.form__fieldset {
+	        padding: 15px 15px;
+	      }
+
+	      .form__fieldset:not(:last-of-type) {
+	        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	      }
+	      .form__input {
+	        font-size: 1rem;
+	        height: 30px;
+	      }
+
+	      .form__select {
+	        padding: 4px 2px;
+	      }
+
+	      .form__label {
+	        margin-right: 15px;
+	      }
+
+	      .form__submit {
+	        padding: 8px 16px;
+	        background-color: unset;
+	        border: 2px solid #1c2023;
+	        border-radius: 4px;
+	        cursor: pointer;
+	        margin-left: 20px;
+	      }
+
+	      .form__submit:hover {
+	        background-color: #1c2023;
+	        color: white;
+	      }
+	</style>
+</head>
+<body>
+	<div class="topnav">
+      <a href="index.html">Utama</a>
+      <a class="active" href="filter.html">Filter Buku</a>
+      <a href="buy.html">Beli</a>
+      <a href="transaksi.html">Transaksi</a>
+      <a href="tentang.html">Tentang</a>
+    </div>
+    <div class="box">
+    	<form method="POST" name="transaksi" >
+	    	<div class="form__fieldset">
+		        <label for="penerbit" class="form__label">Filter Penerbit:</label>
+		        <select name="penerbit" id="penerbit" class=" form__input form__select">
+		            <option value="Pilih penerbit">-- Pilih Penerbit --</option>
+		            <option value="Araska">Araska</option>
+		            <option value="Trans Idea">Trans Idea</option>
+		            <option value="Zahara">Zahara</option>
+		            <option value="Gava Media">Gava Media</option>
+		            <option value="Indoliterasi">Indoliterasi</option>
+		            <option value="Diva Press">Diva Press</option>
+		            <option value="Laksana">Laksana</option>
+		            <option value="Literindo">Literindo</option>
+		            <option value="Star Books">Star Books</option>
+		            <option value="Galang Press">Galang Press</option>
+		            <option value="Noktah">Noktah</option>
+		            <option value="Scritto">Scritto</option>
+		            <option value="Javalitera">Javalitera</option>
+		            <option value="Kaktus">Kaktus</option>
+		            <option value="Saufa">Saufa</option>
+		            <option value="Global Pustaka">Global Pustaka</option>
+		            <option value="Kompas">Kompas</option>
+		            <option value="Solusibooks">Solusibooks</option>
+		            <option value="Tabiya Media">Tabiya Media</option>
+		            <option value="Mitra Pelajar">Mitra Pelajar</option>
+		            <option value="Basa Basi">Basa Basi</option>
+		            <option value="Ceklist">Ceklist</option>
+		            <option value="Andi Offsite">Andi Offsite</option>
+		            <option value="Mizzan">Mizzan</option>
+		        </select>
+	    		<input class="form__submit" type="submit" value="cek"/>
+	    	</div>
+	    	<div class="form__fieldset">
+		        <div>
+			        <label class="form__label">Penerbit:</label>
+			        <h3>{{t}}</h3>
+			    </div>
+			    <br>
+		        <label for="judul" class="form__label">Judul Buku:</label>
+		        {% if t == 'Araska' %}
+		            {% for i in lar%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Araska')}}</p>
+		        {% elif t == 'Trans Idea' %}
+		            {% for i in lti%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Trans Idea')}}</p>
+		        {% elif t == 'Zahara' %}
+		            {% for i in lz%}
+		               	<h3>{{i}}</h3>
+		               	<br>
+		            {% endfor %}
+		           	<p>Buku yang ditemukan ada {{allp.count('Zahara')}}</p>
+		        {% elif t == 'Gava Media' %}
+		            {% for i in lgm%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Gava Media')}}</p>
+		        {% elif t == 'Indoliterasi' %}
+		            {% for i in lil%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Indoliterasi')}}</p>
+		        {% elif t == 'Diva Press' %}
+		            {% for i in ldp%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Diva Press')}}</p>
+		        {% elif t == 'Laksana' %}
+		            {% for i in lla%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Laksana')}}</p>
+		        {% elif t == 'Literindo' %}
+		            {% for i in llo%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Literindo')}}</p>
+		        {% elif t == 'Star Books' %}
+		            {% for i in lsb%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Star Books')}}</p>
+		        {% elif t == 'Galang Press' %}
+		            {% for i in lgp%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Galang Press')}}</p>
+		        {% elif t == 'Noktah' %}
+		            {% for i in ln%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Noktah')}}</p>
+		        {% elif t == 'Scritto' %}
+		            {% for i in ls%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Scritto')}}</p>
+		        {% elif t == 'Javalitera' %}
+		            {% for i in ljl%}
+		               <h3>{{i}}</h3>
+		               <br>
+		             {% endfor %}
+		             <p>Buku yang ditemukan ada {{allp.count('Javalitera')}}</p>
+		        {% elif t == 'Kaktus' %}
+		            {% for i in lk%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Kaktus')}}</p>
+		        {% elif t == 'Saufa' %}
+		            {% for i in lsf%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Saufa')}}</p>
+		        {% elif t == 'Global Pustaka' %}
+		            {% for i in lgpa%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Global Pustaka')}}</p>
+		        {% elif t == 'Kompas' %}
+		            {% for i in lkm%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Kompas')}}</p>
+		        {% elif t == 'Tabiya Media' %}
+		            {% for i in ltm%}
+		                <h3>{{i}}</h3>
+		                <br>
+		             {% endfor %}
+		             <p>Buku yang ditemukan ada {{allp.count('Tabiya Media')}}</p>
+		        {% elif t == 'Mitra Pelajar' %}
+		            {% for i in lmp%}
+		                <h3>{{i}}</h3>
+		                <br>
+		            {% endfor %}
+		            <p>Buku yang ditemukan ada {{allp.count('Mitra Pelajar')}}</p>
+		        {% elif t == 'Basa Basi' %}
+		             {% for i in lbb%}
+		                <h3>{{i}}</h3>
+		                <br>
+		             {% endfor %}
+		             <p>Buku yang ditemukan ada {{allp.count('Basa Basi')}}</p>
+		        {% elif t == 'Ceklist' %}
+		             {% for i in lc%}
+		                <h3>{{i}}</h3>
+		                <br>
+		             {% endfor %}
+		             <p>Buku yang ditemukan ada {{allp.count('Ceklist')}}</p>
+		        {% elif t == 'Andi Offsite' %}
+		             {% for i in lao%}
+		                <h3>{{i}}</h3>
+		                <br>
+		             {% endfor %}
+		             <p>Buku yang ditemukan ada {{allp.count('Andi Offsite')}}</p>
+		        {% elif t == 'Mizzan' %}
+		             {% for i in lmz%}
+		                <h3>{{i}}</h3>
+		                <br>
+		             {% endfor %}
+		             <p>Buku yang ditemukan ada {{allp.count('Mizzana')}}</p>
+		        {%endif%}
+		            </select>
+	        </div>
+    	</form>
+	</div>
+</body>
+</html>

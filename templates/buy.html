@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StarBook - Beli</title>
+    <style type="text/css">
+      *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+      }
+      body{
+        background: #f2f0f0;
+        margin: 20px 30px;
+      }
+      .topnav {
+        background-color: #d3d3d3;
+        overflow: hidden;
+      }
+      .topnav a {
+        float: left;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      .topnav a.active {
+        background-color: #bf5be1;
+        color: white;
+      }
+      .content{
+        display: flex;
+        justify-content: center;
+      }
+      .form_display{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding: 30px;
+        width: 80%;
+        height: auto;
+        max-height: 100%;
+        max-width: 500px;
+        border-radius: 20px;
+        align-items: center;
+        background-color:   white;
+        box-shadow: 3px 3px 6px #c2c2c2;
+      }
+      .form__fieldset {
+        padding: 15px 15px;
+      }
+      .form__fieldset:not(:last-of-type) {
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      }
+      .form__input {
+        font-size: 1rem;
+        height: 30px;
+      }
+      .form__select {
+        padding: 4px 2px;
+      }
+      .form__label {
+        margin-right: 15px;
+      }
+      .form__submit {
+        padding: 8px 16px;
+        background-color: unset;
+        border: 2px solid #1c2023;
+        border-radius: 4px;
+        cursor: pointer;
+        float: left;
+      }
+      .form__submit:hover {
+        background-color: #1c2023;
+        color: white;
+      }
+    </style>
+  </head>
+  <body background="">
+    <div class="topnav">
+      <a href="index.html">Utama</a>
+      <a href="filter.html">Filter Buku</a>
+      <a class="active" href="buy.html">Beli</a>
+      <a href="transaksi.html">Transaksi</a>
+      <a href="#about">Tentang</a>
+    </div>
+    <div class="content">
+      <div class="form_display">
+        <h1>Pembelian</h1>
+        <form method="POST" name="transaksi" >
+          <div class="form__fieldset">
+            <label for="idbook" class="form__label">ID Buku:</label>
+            <input style="height: 30px; padding: 3px;" type="text" name="idbook" placeholder="Masukkan ID buku">
+            <div style="float: right;">
+                <input
+                class="form__submit" type="submit" value="cek"/>
+            </div>
+          </div>
+          {%for y in bk%}
+            {%if t == y['id']%}
+              <div class="form__fieldset">
+                <label for="judul" class="form__label">Judul:</label>
+                <input style="width: 300px;height: 30px; padding: 3px;" type="text" name="judul" value="{{y['judul']}}">
+              </div>
+              <div class="form__fieldset">
+                <label for="penulis" class="form__label">Penulis:</label>
+                <input style="height: 30px; padding: 3px;" type="text" name="penulis" value="{{y['penulis']}}">
+              </div>
+              <div class="form__fieldset">
+                <label for="penerbit" class="form__label">Penerbit:</label>
+                <input style="height: 30px; padding: 3px;" type="text" name="penerbit" value="{{y['penerbit']}}">
+              </div>
+              <div class="form__fieldset">
+                <label for="tahun" class="form__label">Tahun:</label>
+                <input style="height: 30px; padding: 3px;" type="text" name="tahun" value="{{y['tahun']}}">
+              </div>
+              <div class="form__fieldset">
+                <label for="harga" class="form__label">Harga:</label>
+                <input style="height: 30px; padding: 3px;" type="text" name="harga" id="harga" value="{{y['harga']}}">
+              </div>
+              <div class="form__fieldset">
+                <label for="idbook" class="form__label">Jumlah:</label>
+                <input style="height: 30px; padding: 3px; width: 40px;" type="text" id="jumlah" name="jumlah"  onkeyup="totalbayar()">
+              </div>
+              <div class="form__fieldset">
+                <label for="total" class="form__label">Total Harga:</label>
+                <input style="height: 30px; padding: 3px;" type="text" name="total" id="total">
+              </div>
+              <div class="form__fieldset">
+                <label for="tunai" class="form__label">Uang Tunai:</label>
+                <input style="height: 30px; padding: 3px;" type="text" name="tunai" id="tunai" onkeyup="kembali()">
+              </div>
+              <div class="form__fieldset">
+                <label for="kembalian" class="form__label">Kembalian:</label>
+                <input style="height: 30px; padding: 3px;" type="text" name="kembalian" id="kembalian">
+              </div>
+              <div class="form__fieldset">
+              <input
+                  class="form__submit form__input" type="submit" onclick="alert('Transaksi Berhasil!')" value="Selesai"
+                />
+              </div>
+            {%endif%}
+          {%endfor%}
+        </form>
+      </div>
+    </div>
+    <script>
+      function totalbayar(){ 
+        var p = document.getElementById("harga").value;
+        var x = document.getElementById("jumlah").value;
+        document.getElementById("total").value = (p*x);
+      }
+      function kembali(){ 
+        var t = document.getElementById("total").value;
+        var ut = document.getElementById("tunai").value;
+        document.getElementById("kembalian").value = (ut-t);
+      }
+    </script>
+  </body>
+</html>
